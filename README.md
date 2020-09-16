@@ -5,7 +5,7 @@ This is a short script to safely shutdown the Raspberry PI,
 that way it is safe to cut the power without corrupting the SD-card.
 I use a Raspberry Pi model 4.
 
-Starting the script when the RPI boots with rc.local
+Starting the script when the RPI boots with rc.local:
 https://www.raspberrypi.org/documentation/linux/usage/rc-local.md
 
 Some inspiration I used:
